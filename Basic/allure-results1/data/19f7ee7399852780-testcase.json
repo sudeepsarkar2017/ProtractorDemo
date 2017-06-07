@@ -1,0 +1,38 @@
+{
+  "uid" : "19f7ee7399852780",
+  "name" : "lets see what we got in promises",
+  "title" : "lets see what we got in promises",
+  "time" : {
+    "start" : 1490086199062,
+    "stop" : 1490086205890,
+    "duration" : 6828
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "2b24d63f6c9d5225",
+    "name" : "checking all protarctor",
+    "title" : "checking all protarctor"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "checking all protarctor"
+  }, {
+    "name" : "suite-title",
+    "value" : "checking all protarctor"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,15 @@
+{
+  "indexPage": {
+    "loginLink": ".//*[@class='header-link-login text-uppercase']",
+    "profilePhotoLink": "//*[@class='organization-selector']"
+  },
+  "loginpage": {
+    "emailId": "username",
+    "password": "password",
+    "loginBtn": "submit($event)",
+    "checkBox": ".//*[@class='checkbox-replacement-helper']"
+  },
+  "search": {
+    "searchTextBox": "eoFreelancerSearchInput"
+  }
+}

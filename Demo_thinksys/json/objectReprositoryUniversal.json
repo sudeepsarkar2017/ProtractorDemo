@@ -1,0 +1,7 @@
+{
+  "indexPage":{
+    "loginButton_xpath": ".//*[@href='/login']"
+
+  }
+
+}

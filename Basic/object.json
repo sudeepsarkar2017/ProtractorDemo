@@ -1,0 +1,20 @@
+{
+  "testurl":"https://mail.google.com/",
+
+  "locators":{
+      "loginPage":{
+        "username":".//*[@id='Email']",
+        "next":".//*[@id='next']",
+        "password":".//*[@id='Passwd']",
+        "signin":".//*[@id='signIn']"
+      }
+
+ },
+  "userdetail":{
+    "email1":"offsite.mail1",
+    "password":"test123!@#"
+
+  }
+
+
+}

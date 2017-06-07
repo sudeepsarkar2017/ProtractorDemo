@@ -1,0 +1,59 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 3,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 2,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "21a2ad90f3c8c134",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 3,
+        "passed" : 1,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 2,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "6b980d200f61fa08",
+        "name" : "should add a todo",
+        "title" : "should add a todo",
+        "time" : {
+          "start" : 1491287788675,
+          "stop" : 1491287788703,
+          "duration" : 28
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "e3b18356643c5013",
+        "name" : "should add one and two",
+        "title" : "should add one and two",
+        "time" : {
+          "start" : 1491289913167,
+          "stop" : 1491289918204,
+          "duration" : 5037
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "19f7ee7399852780",
+        "name" : "lets see what we got in promises",
+        "title" : "lets see what we got in promises",
+        "time" : {
+          "start" : 1490086199062,
+          "stop" : 1490086205890,
+          "duration" : 6828
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

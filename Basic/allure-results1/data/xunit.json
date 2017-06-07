@@ -1,0 +1,98 @@
+{
+  "time" : {
+    "start" : 1490086199062,
+    "stop" : 1491289918204,
+    "duration" : 1203719142
+  },
+  "testSuites" : [ {
+    "uid" : "12ca104789b5f9fb",
+    "name" : "angularjs homepage todo list",
+    "title" : "angularjs homepage todo list",
+    "time" : {
+      "start" : 1491287788675,
+      "stop" : 1491287788703,
+      "duration" : 28
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 0,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 1,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "6b980d200f61fa08",
+      "name" : "should add a todo",
+      "title" : "should add a todo",
+      "time" : {
+        "start" : 1491287788675,
+        "stop" : 1491287788703,
+        "duration" : 28
+      },
+      "severity" : "NORMAL",
+      "status" : "FAILED"
+    } ]
+  }, {
+    "uid" : "a286aae8349c6e16",
+    "name" : "Protractor Demo App",
+    "title" : "Protractor Demo App",
+    "time" : {
+      "start" : 1491289913167,
+      "stop" : 1491289918204,
+      "duration" : 5037
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 0,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 1,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "e3b18356643c5013",
+      "name" : "should add one and two",
+      "title" : "should add one and two",
+      "time" : {
+        "start" : 1491289913167,
+        "stop" : 1491289918204,
+        "duration" : 5037
+      },
+      "severity" : "NORMAL",
+      "status" : "FAILED"
+    } ]
+  }, {
+    "uid" : "2b24d63f6c9d5225",
+    "name" : "checking all protarctor",
+    "title" : "checking all protarctor",
+    "time" : {
+      "start" : 1490086199062,
+      "stop" : 1490086205890,
+      "duration" : 6828
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "19f7ee7399852780",
+      "name" : "lets see what we got in promises",
+      "title" : "lets see what we got in promises",
+      "time" : {
+        "start" : 1490086199062,
+        "stop" : 1490086205890,
+        "duration" : 6828
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

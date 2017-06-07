@@ -1,0 +1,27 @@
+{
+  "name": "Sudeep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "astrolabe": "0.3.6",
+    "exceljs": "^0.4.1",
+    "gulp": "^3.9.1",
+    "gulp-angular-protractor": "^0.4.2",
+    "jasmine-allure-reporter": "^1.0.1",
+    "jasmine-reporters": "^2.2.1",
+    "protractor": "^5.1.1",
+    "selenium-server-standalone-jar": "^3.2.0",
+    "selenium-webdriver": "^3.3.0",
+    "winston": "2.3.1"
+  },
+  "dependencies": {
+    "jasmine-data-provider": "^2.2.0",
+    "path": "^0.12.7",
+    "promise": "^7.1.1",
+    "xlsx": "^0.9.10"
+  }
+}

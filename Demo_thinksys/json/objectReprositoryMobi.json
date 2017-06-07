@@ -1,0 +1,9 @@
+{
+  "indexPage" : {
+    "hamburgerMenu_xpath": ".//*[@class='right-off-canvas-toggle menu-icon pull-right']"
+
+
+  }
+
+
+}

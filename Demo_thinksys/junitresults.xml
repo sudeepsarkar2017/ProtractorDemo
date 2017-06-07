@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="login test case" timestamp="2017-05-30T00:46:18" hostname="localhost" time="42.784" errors="0" tests="1" skipped="0" failures="0">
+  <testcase classname="login test case" name="login user with emailis" time="42.779">
+  </testcase>
+ </testsuite>
+</testsuites>

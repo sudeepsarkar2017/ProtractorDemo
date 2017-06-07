@@ -1,0 +1,86 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 3,
+        "passed" : 1,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 2,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 1490086199062,
+        "stop" : 1491289918204,
+        "duration" : 1203719142
+      }
+    },
+    "defects" : {
+      "totalCount" : 2,
+      "items" : [ {
+        "count" : 1,
+        "uid" : "c1b9a75b8565ec67",
+        "message" : "Failed: get is not defined",
+        "status" : "FAILED"
+      }, {
+        "count" : 1,
+        "uid" : "da8ed5ccf607a646",
+        "message" : "Expected '3' to equal '5'.",
+        "status" : "FAILED"
+      } ]
+    },
+    "xunit" : {
+      "totalCount" : 3,
+      "items" : [ {
+        "uid" : "a286aae8349c6e16",
+        "title" : "Protractor Demo App",
+        "statistic" : {
+          "total" : 1,
+          "passed" : 0,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 1,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "12ca104789b5f9fb",
+        "title" : "angularjs homepage todo list",
+        "statistic" : {
+          "total" : 1,
+          "passed" : 0,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 1,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "2b24d63f6c9d5225",
+        "title" : "checking all protarctor",
+        "statistic" : {
+          "total" : 1,
+          "passed" : 1,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "title" : "Without feature",
+        "statistic" : {
+          "total" : 3,
+          "passed" : 1,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 2,
+          "broken" : 0
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

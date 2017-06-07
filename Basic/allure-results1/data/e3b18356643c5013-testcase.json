@@ -1,0 +1,41 @@
+{
+  "uid" : "e3b18356643c5013",
+  "name" : "should add one and two",
+  "title" : "should add one and two",
+  "time" : {
+    "start" : 1491289913167,
+    "stop" : 1491289918204,
+    "duration" : 5037
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : {
+    "message" : "Expected '3' to equal '5'.",
+    "stackTrace" : "Error: Failed expectation\n    at Object.<anonymous> (F:\\Protractor\\New\\binding.js:11:9)\n    at C:\\Users\\sarkar\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:110:25\n    at new ManagedPromise (C:\\Users\\sarkar\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1067:7)\n    at ControlFlow.promise (C:\\Users\\sarkar\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2396:12)\n    at schedulerExecute (C:\\Users\\sarkar\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\sarkar\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\sarkar\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\sarkar\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2860:25)\n    at C:\\Users\\sarkar\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7"
+  },
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "FAILED",
+  "suite" : {
+    "uid" : "a286aae8349c6e16",
+    "name" : "Protractor Demo App",
+    "title" : "Protractor Demo App"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Protractor Demo App"
+  }, {
+    "name" : "suite-title",
+    "value" : "Protractor Demo App"
+  } ],
+  "parameters" : [ ]
+}
